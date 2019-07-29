@@ -24,7 +24,7 @@ App Features:
 Pods are made available as part of repository, to facilitate simplicity in checkout and execution. Simply checkout and run the project.
 
 ## Build
-
+Open UsmanPopular.xcworkspace in Xcode
 Run the UsmanPopular target from Xcode.
 
 
