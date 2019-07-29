@@ -1,0 +1,43 @@
+{
+    "url": "https:\/\/www.nytimes.com\/2019\/07\/23\/us\/neil-armstrong-wrongful-death-settlement.html",
+    "adx_keywords": "Armstrong, Neil Alden;Malpractice;Hospitals;Bon Secours Mercy Health;Suits and Litigation (Civil);Space and Astronomy;Mercy Health - Fairfield Hospital (Cincinnati, Ohio)",
+    "column": null,
+    "section": "U.S.",
+    "byline": "By SCOTT SHANE and SARAH KLIFF",
+    "type": "Article",
+    "title": "Neil Armstrong\u2019s Death, and a Stormy, Secret $6 Million Settlement",
+    "abstract": "The astronaut\u2019s sons contended that incompetent medical care had cost him his life, and threatened to go public. His widow says she wanted no part of the payout.",
+    "published_date": "2019-07-23",
+    "source": "The New York Times",
+    "id": 100000006625601,
+    "asset_id": 100000006625601,
+    "views": 1,
+    "des_facet": ["MALPRACTICE", "HOSPITALS", "SUITS AND LITIGATION (CIVIL)"],
+    "org_facet": ["BON SECOURS MERCY HEALTH", "SPACE AND ASTRONOMY", "MERCY HEALTH - FAIRFIELD HOSPITAL (CINCINNATI, OHIO)"],
+    "per_facet": ["ARMSTRONG, NEIL ALDEN"],
+    "geo_facet": "",
+    "media": [{
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Neil Armstrong in 1969. After his death in 2012, his sons came to believe that he had received lethally flawed medical care.",
+        "copyright": "SSPL\/Getty Images",
+        "approved_for_syndication": 1,
+        "media-metadata": [{
+            "url": "https:\/\/static01.nyt.com\/images\/2019\/07\/25\/multimedia\/23armstrong\/23armstrong-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+        }, {
+            "url": "https:\/\/static01.nyt.com\/images\/2019\/07\/25\/multimedia\/23armstrong\/23armstrong-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+        }, {
+            "url": "https:\/\/static01.nyt.com\/images\/2019\/07\/25\/multimedia\/23armstrong\/23armstrong-mediumThreeByTwo440-v2.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+        }]
+    }],
+    "uri": "nyt:\/\/article\/f3b77cbb-be05-5261-ab2d-a2b58011991d"
+}
